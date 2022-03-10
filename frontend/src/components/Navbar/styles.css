@@ -1,0 +1,22 @@
+header{
+  background-color: var(--color-primary);
+  display: flex;
+  align-items: center;
+}
+.dsmovie-nav-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #E5E5E5;
+}
+.dsmovie-nav-content h1{
+    margin: 0;
+    font-weight: 700;
+}
+.dsmovie-contact-container{
+    display: flex;
+    align-items: center;
+}
+.dsmovie-contact-link{
+    margin: 4px 0 0 0;
+}
